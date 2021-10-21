@@ -1,11 +1,16 @@
 _repo: Stellar-Vengeance_66456
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66456-h/images/cover.jpg
 creator:
   author:
     agent_name: Freeman, Frank
     gutenberg_agent_id: '53817'
     url: http://www.gutenberg.org/2009/agents/53817
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66456#Stellar-Vengeance
 gutenberg_issued: '2021-10-03'
 identifiers:
   gutenberg: '66456'
